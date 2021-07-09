@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fronikuniu</h1>
 
 <h3>About me</h3>
-<p>Hi, I'm Bartek. Mostly they called me Froniu. I would master Frontend Developer skills. My main programming language is JavaScript with the React framework. I'm writing styles in css for now, but I'm planning to switch to some UI Framework. Apart from programming, I like to play and chill while watching series with my girlfriend.</p>
+<p>Hi, I'm Bartek. Mostly they called me Froniu. I want master my skills in Frontend. My main programming language is JavaScript with the React framework. I'm writing styles in css for now, but I'm planning to switch to some UI Framework. Apart from programming, I like to play and chill while watching series with my girlfriend.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
