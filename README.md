@@ -14,7 +14,7 @@
 
 <h3 align="left">Stats:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fronikuniu)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fronikuniu&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fronikuniu&show_icons=true&count_private=true)  
 
