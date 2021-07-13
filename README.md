@@ -14,11 +14,19 @@
 
 <h3 align="left">Stats:</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Fronikuniu&theme=juicyfresh)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Fronikuniu&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fronikuniu)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fronikuniu&theme=radical)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fronikuniu&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Fronikuniu&show_icons=true&count_private=true&theme=radical)  
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Fronikuniu)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fronikuniu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fronikuniu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
+
+
 
