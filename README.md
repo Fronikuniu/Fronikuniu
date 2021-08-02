@@ -27,7 +27,7 @@
 <h3 align="left">Open source repositories where I code:</h3>
 
 <h4>1. menagoleague.pl</h4>
-<a href="https://github.com/Dainc007/menagoleague.pl" target="blank">
+<a href="https://github.com/Dainc007/menagoleague.pl" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainc007&repo=menagoleague.pl&theme=radical" />
 </a>
 
