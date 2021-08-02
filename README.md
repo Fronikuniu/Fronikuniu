@@ -22,11 +22,17 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fronikuniu&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
+<embed src="https://wakatime.com/share/@Fronikuniu/21ba1b06-26ed-4265-9021-c4b716fdaffb.svg"></embed>
+
 <h3 align="left">Open source repositories where I code:</h3>
 
-<h4>1. <a href="https://github.com/Dainc007/menagoleague.pl" target="blank">menagoleague.pl</a></h4>
+<h4>1. menagoleague.pl</h4>
+<a href="https://github.com/Dainc007/menagoleague.pl" target="blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Dainc007&repo=menagoleague.pl&theme=radical" />
+</a>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Dainc007&repo=menagoleague.pl&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+
 
 <!-- 
   [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Fronikuniu&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
