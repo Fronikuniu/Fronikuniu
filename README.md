@@ -3,6 +3,10 @@
 <h3>About me</h3>
 <p>Hi, I'm Bartek. I'm 20 years old Junior Front-end developer. Mostly they called me Froniu. I want master my skills in Frontend. My main programming language is JavaScript with the React framework. I'm writing styles in css and scss for now, but I use too some UI Framework e.g. Bootstrap. Apart from programming, I like to play and chill while watching series with my girlfriend.</p>
 
+<a href="https://github.com/Fronikuniu">
+  <img src="https://komarev.com/ghpvc/?username=Fronikuniu&color=red&style=flat">
+</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/bartek-fron" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bartek-fron" height="30" width="40" /></a>
