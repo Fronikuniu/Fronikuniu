@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fronikuniu</h1>
 
 <h3>About me</h3>
-<p>Hi, I'm Bartek. I'm 20 years old Junior Front-end developer. Mostly they called me Froniu. I want master my skills in Frontend. My main programming language is JavaScript with the React framework. I'm writing styles in css and scss for now, but I use too some UI Framework e.g. Bootstrap. Apart from programming, I like to play and chill while watching series with my girlfriend.</p>
+<p>One day.. I will complete this</p>
 
 <a href="https://github.com/Fronikuniu">
   <img src="https://komarev.com/ghpvc/?username=Fronikuniu&color=red&style=flat">
